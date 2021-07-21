@@ -2,6 +2,15 @@ hiiii ajay
 where are you my dear
 
 
+
+public class Sample{
+
+public static void main(String []args){
+System.out.println("ajay: pawan kalyan ");
+System.out.println("varma: pawan kalyan ");
+
+}
+}
 vijay where are you
 
 what are you doing

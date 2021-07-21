@@ -1,7 +1,10 @@
 hiiii ajay 
 where are you my dear
 
-
+class Parent{
+}
+class Child extends Parent{
+}
 
 public class Sample{
 

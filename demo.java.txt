@@ -12,6 +12,11 @@ public static void main(String []args){
 System.out.println("ajay: pawan kalyan ");
 System.out.println("varma: pawan kalyan ");
 
+
+System.out.println("ajay: javvaji ");
+System.out.println("varma: javvaji ");
+
+
 }
 }
 vijay where are you

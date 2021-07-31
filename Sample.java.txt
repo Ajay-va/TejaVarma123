@@ -4,4 +4,11 @@ public static void main(String []args){
 System.out.println("ajay: pawan kalyan ");
 System.out.println("varma: pawan kalyan ");
 
-}}
+}
+
+public void m1()
+{
+System.out.println("ajay");
+
+}
+}

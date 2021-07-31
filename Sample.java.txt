@@ -1,8 +1,12 @@
 public class Sample{
 
 public static void main(String []args){
-System.out.println("ajay: pawan kalyan ");
-System.out.println("varma: pawan kalyan ");
+System.out.println("ajay:  javvaji  ");
+System.out.println("varma: javvaji  ");
+System.out.println("ajay varma: javvaji ");
+System.out.println("varma: javvaji  ");
+
+
 
 }
 
@@ -11,4 +15,9 @@ public void m1()
 System.out.println("ajay");
 
 }
+
+public void m2(){
+System.out.println("ajay");
+}
+
 }

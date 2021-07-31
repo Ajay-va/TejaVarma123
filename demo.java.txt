@@ -1,10 +1,24 @@
-hello teja how are you 
-where are teja 
-
 hiiii ajay 
 where are you my dear
 
+class Parent{
+}
+class Child extends Parent{
+}
 
+public class Sample{
+
+public static void main(String []args){
+System.out.println("ajay: pawan kalyan ");
+System.out.println("varma: pawan kalyan ");
+
+
+System.out.println("ajay: javvaji ");
+System.out.println("varma: javvaji ");
+
+
+}
+}
 vijay where are you
 
 what are you doing

@@ -15,4 +15,9 @@ public void m1()
 System.out.println("ajay");
 
 }
+
+public void m2(){
+System.out.println("ajay");
+}
+
 }
